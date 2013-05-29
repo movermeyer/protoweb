@@ -46,8 +46,8 @@ class ProcessorHandler(cyclone.web.RequestHandler):
         if path.startswith('/'):
             path = path[1:]
 
-        if not path:
-            path = self.config.get('root-index', 'html/index.html')
+        #if not path:  # TODO this will not work, didn't even noticed!
+        #    path = self.config.get('root-index', 'html/index.html')
 
         argmap = dict(map(lambda k: (k, self.get_argument(k)),
                           self.request.arguments.keys()))
