@@ -1,4 +1,8 @@
-# protoweb
+protoweb
+========
+
+[![PyPi version](https://pypip.in/v/protoweb/badge.png)](https://crate.io/packages/protoweb/)
+[![PyPi downloads](https://pypip.in/d/protoweb/badge.png)](https://crate.io/packages/protoweb/)
 
 **WARNING: ````protoweb```` is in very early stages of development!**
 
