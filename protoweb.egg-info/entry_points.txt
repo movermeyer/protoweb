@@ -1,0 +1,2 @@
+[console_scripts]
+protowebs = protoweb.util:run
