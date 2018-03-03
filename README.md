@@ -1,8 +1,7 @@
 protoweb
 ========
 
-[![PyPi version](https://img.shields.io/pypi/v/protoweb.svg
-[![PyPi downloads](https://img.shields.io/pypi/dm/protoweb.svg
+[![PyPi version](https://img.shields.io/pypi/v/protoweb.svg)](https://crate.io/packages/protoweb/)
 
 **WARNING: ````protoweb```` is in very early stages of development!**
 
